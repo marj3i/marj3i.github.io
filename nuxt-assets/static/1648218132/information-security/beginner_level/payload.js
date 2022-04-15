@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/information-security/beginner_level", {data:[{info:{slug:"beginner_level",title:"مرحلة المبتدأ",desc:"تابع الخطة",toc:[],body:{type:"root",children:[]},dir:"\u002Finformation-security",path:"\u002Finformation-security\u002Fbeginner_level",extension:".md",createdAt:"2022-03-23T17:47:32.096Z",updatedAt:"2022-03-24T18:35:58.658Z"}}],fetch:{},mutations:void 0});

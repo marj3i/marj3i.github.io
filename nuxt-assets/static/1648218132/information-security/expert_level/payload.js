@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/information-security/expert_level", {data:[{info:{slug:"expert_level",title:"مرحلة الخبير",desc:"تابع الخطة",toc:[],body:{type:"root",children:[]},dir:"\u002Finformation-security",path:"\u002Finformation-security\u002Fexpert_level",extension:".md",createdAt:"2022-03-24T18:37:16.397Z",updatedAt:"2022-03-24T18:37:43.245Z"}}],fetch:{},mutations:void 0});
