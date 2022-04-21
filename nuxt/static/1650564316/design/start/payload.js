@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/design/start", {data:[{info:{slug:"start",title:"التصميم",desc:"تصفح المسار",toc:[],body:{type:"root",children:[]},dir:"\u002Fdesign",path:"\u002Fdesign\u002Fstart",extension:".md",createdAt:"2022-04-21T17:52:27.407Z",updatedAt:"2022-04-21T17:52:34.820Z"}}],fetch:{},mutations:void 0});
